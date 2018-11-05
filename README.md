@@ -1,2 +1,2 @@
-# cosmos
+# Cosmos
 Cosmos – Organize, Collect, Collaborate, Share
